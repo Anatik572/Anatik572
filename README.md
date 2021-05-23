@@ -4,6 +4,13 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=anatik572&amp;theme=dracula&amp;show_icons=true" alt="Anatik572 stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anatik572&amp;theme=dracula&amp;show_icons=true" style="max-width:100%;"></p>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
+<h1>🌇 My day</h1>
+```javascript 
+function WakeUp(){
+   console.log("😴 Sleeping .... 🌆")
+}
+WakeUp()
+```
 
 <h1>Project 🃏</h1>
 <h4>🧠 : <a href="http://smart-overwrite.net/">Smart-OverWrite</a> Panel Garry's Mod </h4>
