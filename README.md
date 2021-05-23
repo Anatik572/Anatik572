@@ -5,7 +5,7 @@
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;">
 <h1>🌇 My day</h1>
-```javascript 
+```javascript
 function WakeUp(){
    console.log("😴 Sleeping .... 🌆")
 }
