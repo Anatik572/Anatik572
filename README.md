@@ -1,9 +1,11 @@
 <h1> Welcome to my Profile  🪐 </h1>
 <h4>🌎 : French</h4>
 <h4>☄️ : Lua - Php - Js (Web, Node) - ect .. </h4>
+<h1> Statistique 📈 </h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=anatik572&amp;theme=dracula&amp;show_icons=true" alt="Anatik572 stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anatik572&amp;theme=dracula&amp;show_icons=true" style="max-width:100%;"></p>
-<br>
+<br><h1> Trophy 🏆 </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;"><br>
+<h1> Most used language 💝 </h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatik572&theme=radical&border_radius=30px">
 <h1>😎 Visitor</h1>
 <img src="https://visitor-badge.glitch.me/badge?page_id=Anatik572">
