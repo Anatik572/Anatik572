@@ -11,5 +11,5 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=Anatik572">
 <h1>Project 🃏</h1>
 <h4>🧠 : <a href="http://smart-overwrite.net/">Smart-OverWrite</a> Panel Garry's Mod </h4>
-<h4>:shipit: : <a href="https://smart-bot.me/">Smart-Bot</a> Best Raid/Selfbot/Boken tool for discord </h4>
+<h4>:shipit: : <a href="https://smart-bot.me/">Smart-Bot</a> Best Discord RaidTool/Twitch tool </h4>
 
