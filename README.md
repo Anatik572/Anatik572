@@ -2,7 +2,7 @@
 <h4>🌎 : French</h4>
 <h4>☄️ : Lua - Php - Js (Client, Server) - ect .. </h4>
 <h1> Statistique 📈 </h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=anatik572&amp;theme=dracula&amp;show_icons=true" alt="Anatik572 stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anatik572&amp;theme=dracula&amp;show_icons=true" style="max-width:100%;"></p>
+<p><img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/132981492-eb1ab118-5e77-4a67-adee-49f6b6e676fe.png" style="max-width:100%;"></p>
 <br><h1> Trophy 🏆 </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;"><br>
 <h1> Most used language 💝 </h1>
