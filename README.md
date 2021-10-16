@@ -30,7 +30,7 @@ Eat(); Sleep(); Code(); Repeat();
 
 ```
 <h4>My projects</h4>
-    <p><img width="10"src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
+    <p><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
         <a href="https://smart-bot.me">
             Smart-bot.me : The 1st and best raid panel for discord bypass a lot of protection bots and the best raid panel for twitch 
         </a>
