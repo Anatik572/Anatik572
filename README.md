@@ -1,15 +1,23 @@
-<h1> Welcome to my Profile  🪐 </h1>
-<h4>🌎 : French</h4>
-<h4>☄️ : Lua - Php - Js (Client, Server) - ect .. </h4>
-<h1> Statistique 📈 </h1>
-<p><img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/132981492-eb1ab118-5e77-4a67-adee-49f6b6e676fe.png" style="max-width:100%;"></p>
-<br><h1> Trophy 🏆 </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=7" style="max-width:100%;"><br>
-<h1> Most used language 💝 </h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatik572&theme=radical&border_radius=30px">
-<h1>😎 Visitor</h1>
-<img src="https://visitor-badge.glitch.me/badge?page_id=Anatik572">
-<h1>Project 🃏</h1>
-<h4>🧠 : <a href="http://smart-overwrite.net/">Smart-OverWrite</a> Panel Garry's Mod </h4>
-<h4>:shipit: : <a href="https://smart-bot.me/">Smart-Bot</a> Best Discord RaidTool/Twitch tool </h4>
+```javascript
 
+function Eat(){
+   print('Eating vegetables'); 
+}
+
+function Sleep(){
+   print('I slept ' + (20 * 3) + ' hours');
+}
+
+function Code(){
+   const js = require("js")
+   
+   js.print('this is not real code lol');
+}
+
+function Repeat(){
+  Repeat();
+}
+
+Eat(); Sleep(); Code(); Repeat();
+
+```
