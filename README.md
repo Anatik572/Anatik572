@@ -1,5 +1,6 @@
 <h3>Hey there, welcome to my github profile 🪐</h3>
-I am just a person who likes to develop 💻 and French 🇫🇷 yes yes baguette 🥖🥐
+I am just a person who likes to develop in languages 💻 and French 🇫🇷 oui oui baguette 🥖🥐
+
 
 
 ```javascript
