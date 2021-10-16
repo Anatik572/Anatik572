@@ -3,6 +3,9 @@ I am just a person who likes to develop 💻 and French 🇫🇷 yes yes baguett
 
 
 ```javascript
+function print(a){
+   console.log(a);
+}
 
 function Eat(){
    print('Eating vegetables'); 
