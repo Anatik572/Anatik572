@@ -1,3 +1,7 @@
+Hey there, welcome to my github profile 🪐
+I am just a person who likes to develop 💻 and French 🇫🇷 yes yes baguette 🥖🥐
+
+
 ```javascript
 
 function Eat(){
