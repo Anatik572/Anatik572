@@ -33,7 +33,7 @@ Eat(); Sleep(); Code(); Repeat();
     <p><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
         <a href="https://smart-bot.me">
             Smart-bot.me 
-        </a> The 1st and best raid panel for discord <img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/discord.png"> bypass a lot of protection bots and the best raid panel for twitch  <img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/twitch.png">
+        </a> The 1st and best raid panel for discord <img width="20" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/discord.png"> bypass a lot of protection bots and the best raid panel for twitch  <img width="20" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/twitch.png">
     </p>
     
 
