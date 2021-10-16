@@ -13,7 +13,7 @@ function Sleep(){
 }
 
 function Code(){
-   const js = require("js")
+   const js = require("node-js")
    
    js.print('this is not real code lol');
 }
