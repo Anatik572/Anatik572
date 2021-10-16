@@ -1,4 +1,4 @@
-<h3>Hey there, welcome to my github profile 🪐</h3>
+<h3>😸 Hey there, welcome to my github profile 🪐</h3>
 I am just a person who likes to develop in languages 💻 and French 🇫🇷 oui oui baguette 🥖🥐
 
 
@@ -29,7 +29,7 @@ function Repeat(){
 Eat(); Sleep(); Code(); Repeat();
 
 ```
-<h4>My projects</h4>
+<h4>🗃 My projects</h4>
     <p><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
         <a href="https://smart-bot.me">
             Smart-bot.me 
@@ -38,7 +38,7 @@ Eat(); Sleep(); Code(); Repeat();
     
 
 
-<h4>Contact Me</h4>
+<h4>☎️ Contact Me</h4>
 <a href="https://discord.gg/JUu7X7BM">
   <img src="https://discord.c99.nl/widget/theme-1/885230674578145310.png" height="80">
 </a>
