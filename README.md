@@ -29,3 +29,16 @@ function Repeat(){
 Eat(); Sleep(); Code(); Repeat();
 
 ```
+<h4>My projects</h4>
+    <p>
+        <a href="https://smart-bot.me">
+            <img width="25" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> Smart-bot.me : The 1st and best raid panel for discord bypass a lot of protection bots and the best raid panel for twitch 
+        </a>
+    </p>
+    
+
+
+<h4>Contact Me</h4>
+<a href="https://discord.gg/JUu7X7BM">
+  <img src="https://discord.c99.nl/widget/theme-1/885230674578145310.png" height="80">
+</a>
