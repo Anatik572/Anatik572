@@ -39,6 +39,6 @@ Eat(); Sleep(); Code(); Repeat();
 
 
 <h4>☎️ Contact Me</h4>
-<a href="https://discord.gg/JUu7X7BM">
+<a href="https://discord.gg/ht2kZkhY2d">
   <img src="https://discord.c99.nl/widget/theme-1/885230674578145310.png" height="80">
 </a>
