@@ -17,20 +17,19 @@ function Sleep(){
 }
 
 function Code(){
-   const js = require("node-js")
-   
-   js.print('this is not real code lol');
+   print('PHP,CSS,NODE-JS,JS');
 }
 
 function Repeat(){
   Repeat();
+  print('smart-bot.me');
 }
 
 Eat(); Sleep(); Code(); Repeat();
 
 ```
 <h4>🗃 My projects</h4>
-    <p class="center"><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
+    <p><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
         <a href="https://smart-bot.me">
             Smart-bot.me 
         </a> The 1st and best raid panel for discord <img width="20" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/discord.png"> bypass a lot of protection bots and the best raid panel for twitch  <img width="20" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/twitch.png">
