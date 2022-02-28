@@ -25,7 +25,7 @@ function Repeat(){
 Eat(); Sleep(); Code(); Repeat();
 
 ```
-<img width="25" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/memocord.png"> memocord.me
+<img style="max-width: 100%;" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/memocord.png"> memocord.me
 <h4>🗃 My projects</h4>
     <p><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
         <a href="https://smart-bot.me">
