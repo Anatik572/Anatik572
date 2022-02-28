@@ -1,5 +1,6 @@
-<h3 style="text-align: center;">😸 Hey there, welcome to my github profile 🪐</h3>
-
+<p align="center">
+  😸 Hey there, welcome to my github profile 🪐
+</p>
 ```javascript
 function print(a){
    console.log(a);
