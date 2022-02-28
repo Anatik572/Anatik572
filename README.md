@@ -1,4 +1,4 @@
-<h3>😸 Hey there, welcome to my github profile 🪐</h3>
+<h3 style="text-align: center;">😸 Hey there, welcome to my github profile 🪐</h3>
 
 ```javascript
 function print(a){
