@@ -47,6 +47,6 @@ Eat(); Sleep(); Code(); Repeat();
 </p>
 
 <p align="center">
-  <img width="900px" alt="" src="https://discord.c99.nl/widget/theme-1/885230674578145310.png">
+  <img width="600px" alt="" src="https://discord.c99.nl/widget/theme-1/885230674578145310.png">
 </p>
 
