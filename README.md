@@ -1,8 +1,4 @@
 <h3>😸 Hey there, welcome to my github profile 🪐</h3>
-I am just a person who likes to develop in languages 💻 and French 🇫🇷 oui oui baguette 🥖🥐
-
-
-
 ```javascript
 function print(a){
    console.log(a);
@@ -28,6 +24,7 @@ function Repeat(){
 Eat(); Sleep(); Code(); Repeat();
 
 ```
+<img width="25" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/memocord.png">
 <h4>🗃 My projects</h4>
     <p><img width="15" src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/basic.png"> |
         <a href="https://smart-bot.me">
