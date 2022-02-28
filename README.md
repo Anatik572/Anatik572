@@ -17,7 +17,7 @@ function Sleep(){
 }
 
 function Code(){
-   print('PHP,CSS,NODE-JS,JS');
+   print('PHP,CSS,NODE-JS,JS,LUA');
 }
 
 function Repeat(){
