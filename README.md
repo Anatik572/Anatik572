@@ -34,6 +34,9 @@ Eat(); Sleep(); Code(); Repeat();
  🎭 https://memocord.me - Want to have fun then come see our best meme
 ```
 
-***
+#### Contact
 
+```python
+KITANA#0917
+```
 
