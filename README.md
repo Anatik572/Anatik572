@@ -18,7 +18,7 @@ Welcome to my github profile!
 
 </h1>
 
-```javascript
+```python
 Eat(); Sleep(); Code(); Repeat();
 
 ```
