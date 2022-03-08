@@ -30,6 +30,10 @@ Eat(); Sleep(); Code(); Repeat();
  🧠 https://smart-bot.me - Raid Tool Discord & Twitch And Nuker !
 ```
 
+```python
+ 🎭 https://memocord.me - Want to have fun then come see our best meme
+```
+
 ***
 
 
