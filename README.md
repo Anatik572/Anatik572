@@ -26,7 +26,7 @@ Eat(); Sleep(); Code(); Repeat();
 #### Project
 
 
-```javascript
+```python
  🧠 https://smart-bot.me - Raid Tool Discord & Twitch And Nuker !
 ```
 
