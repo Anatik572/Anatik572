@@ -4,7 +4,7 @@
 <div align="center">
  
 ```javascript
-Welcome to my github profile!
+Welcome to my github profile ✨!
 
 ```
 
@@ -14,7 +14,7 @@ Welcome to my github profile!
 
 <div align="center">
   
-#### About me
+#### About me 🕺
 
 </h1>
 
@@ -23,7 +23,7 @@ Eat(); Sleep(); Code(); Repeat();
 
 ```
 
-#### Project
+#### Project 🥸
 
 
 ```python
@@ -34,7 +34,7 @@ Eat(); Sleep(); Code(); Repeat();
  🎭 https://memocord.me - Want to have fun then come see our best meme
 ```
 
-#### Contact
+#### Contact 🤠
 
 ```python
 KITANA#0917
