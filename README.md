@@ -37,6 +37,6 @@ Eat(); Sleep(); Code(); Repeat();
 #### Contact 🤠
 
 ```python
-KITANA#0917
+Discord -> KITANA#0917
 ```
 
