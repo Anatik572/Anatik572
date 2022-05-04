@@ -41,7 +41,7 @@ Eat(); Sleep(); Code(); Repeat();
 
 #### Statistiques (Most used language) 📊
 <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatik572&layout=compact&theme=buefy&hide_border=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatik572&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 #### Project 🥸
