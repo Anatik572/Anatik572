@@ -31,10 +31,19 @@ Eat(); Sleep(); Code(); Repeat();
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/lua.png" width="58"/>
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/nodejs.png" width="58"/>
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/php.png" width="58"/>
-
-#### I am starting the language 🕵️
-
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/python.png" width="58"/>
+
+#### Trophies 🏆
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anatik572;theme=dracula&amp;margin-w=17&amp;margin-h=15&amp;column=7" style="max-width:100%;">
+</p>
+
+#### Statistiques 📊
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anatik572;theme=dracula&amp;show_icons=true">
+</p>
 
 #### Project 🥸
 
