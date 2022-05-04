@@ -26,8 +26,15 @@ Eat(); Sleep(); Code(); Repeat();
 #### My most used languages 🟦⬜️🟥
 
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/css.png" width="58"/>
-<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/js.png" width="58"/>
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/html.png" width="58"/>
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/javascript.png" width="58"/>
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/lua.png" width="58"/>
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/nodejs.png" width="58"/>
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/php.png" width="58"/>
 
+#### I am starting the language 🕵️
+
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/python.png" width="58"/>
 
 #### Project 🥸
 
