@@ -33,12 +33,6 @@ Eat(); Sleep(); Code(); Repeat();
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/php.png" width="58"/>
 <img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/python.png" width="58"/>
 
-#### Trophies 🏆
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=17&amp;margin-h=15&amp;column=12" style="max-width:100%;">
-</p>
-
 #### Statistiques 📊
 
 <p align="center">
