@@ -37,6 +37,7 @@ Eat(); Sleep(); Code(); Repeat();
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Anatik572&amp;theme=dracula&amp;show_icons=true">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatik572&layout=compact&theme=buefy&hide_border=true" /></a> |
 </p>
 
 #### Project 🥸
