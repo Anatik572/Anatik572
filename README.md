@@ -25,11 +25,11 @@ Eat(); Sleep(); Code(); Repeat();
 
 #### My most used languages 🟦⬜️🟥
 
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/css.png" width="58"/>
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/js.png" width="58"/>
 
 
 #### Project 🥸
-
-<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/css.png" width="58"/>
 
 ```python
  🧠 https://smart-bot.me - Raid Tool Discord & Twitch And Nuker !
