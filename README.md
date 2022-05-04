@@ -56,7 +56,7 @@ Eat(); Sleep(); Code(); Repeat();
 
 #### Contact 🤠
 
-```python
-Discord -> KITANA#0917
-```
+<a href="https://discord.com/users/885230674578145310">
+    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/885230674578145310"></p>
+</a>
 
