@@ -36,7 +36,7 @@ Eat(); Sleep(); Code(); Repeat();
 #### Statistiques 📊
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anatik572&amp;theme=dracula&amp;show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anatik572&amp;theme=dracula&amp;show_icons=true&hide_border=true">
 </p>
 
 #### Statistiques (Most used language) 📊
