@@ -28,7 +28,7 @@ Eat(); Sleep(); Code(); Repeat();
 
 
 #### Project 🥸
-
+![CSS](https://raw.githubusercontent.com/Anatik572/Anatik572/main/icon/css.png)
 
 ```python
  🧠 https://smart-bot.me - Raid Tool Discord & Twitch And Nuker !
