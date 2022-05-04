@@ -36,7 +36,7 @@ Eat(); Sleep(); Code(); Repeat();
 #### Trophies 🏆
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=17&amp;margin-h=15&amp;column=7" style="max-width:100%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anatik572&amp;theme=dracula&amp;margin-w=17&amp;margin-h=15&amp;column=12" style="max-width:100%;">
 </p>
 
 #### Statistiques 📊
