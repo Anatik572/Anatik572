@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/top_banner.png">
+<img src="https://raw.githubusercontent.com/Anatik572/Anatik572/main/banner_top.png">
 
 <div align="center">
 
