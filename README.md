@@ -4,7 +4,7 @@
 <div align="center">
 
 ### 📚 Languages and Tools and Operating system
-<h5>Some programming languages are still being learned</h5>
+<h5>⚠️ Some programming languages are still being learned ⚠️</h5>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
