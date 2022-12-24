@@ -34,18 +34,18 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-#### Statistiques 📊
+### Statistiques 📊
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anatik572&amp;theme=dracula&amp;show_icons=true&hide_border=true">
 </p>
 
-#### Statistiques (Most used language) 📊
+### Statistiques (Most used language) 📊
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatik572&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 
-#### Project 🥸
+### Project 🥸
 
 <div>
  <hr>
