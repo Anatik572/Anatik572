@@ -58,9 +58,8 @@
                                                                             
   <a><h3>Smart-Bot</h3></a>
   <h4>An automated account system and others (discord).</h4>                            
- <hr>    
-</p>
-
+  
+<hr>  
 <br>
 </div>
 
