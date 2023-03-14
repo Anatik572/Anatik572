@@ -52,7 +52,13 @@
   <img width="100" align="left" src="https://memocord.me/cdn/img/favicon.jpg">
                                                                             
   <a href="https://memocord.me"><h3>Memocord</h3></a>
-  <h4>Memocord is a website that collects Discord memes and then finds them in one place, so that they can be shared or even discovered.</h4>                            <hr>                      
+  <h4>Memocord is a website that collects Discord memes and then finds them in one place, so that they can be shared or even discovered.</h4>                            <hr>    
+<hr>
+  <img width="100" align="left" src="[https://memocord.me/cdn/img/favicon.jpg](https://img.icons8.com/fluency/50/000000/brain.png)">
+                                                                            
+  <a><h3>Smart-Bot</h3></a>
+  <h4>An automated account system and others (discord).</h4>                            
+ <hr>    
 </p>
 
 <br>
