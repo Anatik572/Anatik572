@@ -54,7 +54,6 @@
                                                                             
   <a href="https://smart-bot.me"><h3>Smart-Bot.me</h3></a>
   <h4>smart-bot are services to automate your accounts for the raid as for the utility (Discord, Telegram, etc).</h4>     
-<br>
  <hr>
 </div>
 
