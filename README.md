@@ -41,11 +41,6 @@
                                                                             
   <a href="https://memocord.me"><h3>Memocord.me</h3></a>
   <h4>Memocord is a website that collects Discord memes and then finds them in one place, so that they can be shared or even discovered.</h4>
- <hr>
-  <img width="100" align="left" src="https://img.icons8.com/fluency/50/000000/brain.png">
-                                                                            
-  <a href="https://smart-bot.me"><h3>Smart-Bot.me</h3></a>
-  <h4>smart-bot are services to automate your accounts for the raid as for the utility (Discord, Telegram, etc).</h4>     
 </div>
 
 
