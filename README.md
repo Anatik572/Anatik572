@@ -16,7 +16,7 @@
  
 <p align="center">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/react-%230769AD.svg?style=for-the-badge&logo=react&logoColor=white">
+<img src="hthttps://img.shields.io/badge/react-5ed3f3.svg?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
