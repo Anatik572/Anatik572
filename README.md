@@ -38,7 +38,7 @@
 
 <div>
   <hr>
-  <img width="100" align="left" src="https://groove-6ns.pages.dev/favicon.ico">
+  <img width="100" align="left" src="https://raw.githubusercontent.com/Anatik572/Anatik572/refs/heads/main/logo192.png">
                                                                             
   <a href="https://notarealurl.cop"><h3>GrooveSound (In Dev)</h3></a>
   <h4>GrooveSound is a project for unlimited music listening.</h4>
