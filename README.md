@@ -37,16 +37,18 @@
 ### Project 🥸
 
 <div>
+  <hr>
+  <img width="100" align="left" src="https://groove-6ns.pages.dev/favicon.ico">
+                                                                            
+  <a href="https://notarealurl.cop"><h3>GrooveSound (In Dev)</h3></a>
+  <h4>GrooveSound is a project for unlimited music listening.</h4>
  <hr>
   <img width="100" align="left" src="https://memocord.me/cdn/img/favicon.jpg">
                                                                             
   <a href="https://memocord.me"><h3>Memocord.me</h3></a>
   <h4>Memocord is a website that collects Discord memes and then finds them in one place, so that they can be shared or even discovered.</h4>
  <hr>
-  <img width="100" align="left" src="https://avatars.githubusercontent.com/u/120763228?s=200&v=4">
-                                                                            
-  <a href="https://memocord.me"><h3>TRIA Group</h3></a>
-  <h4>At Tria Group, we are passionate about pushing the boundaries of creativity within the gaming industry. Our team consists of highly skilled developers, designers, and artists who come together to create immersive and enjoyable experiences for players.</h4>
+ 
 </div>
 
 
