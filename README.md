@@ -43,9 +43,9 @@
   <a href="https://notarealurl.cop"><h3>GrooveSound (In Dev)</h3></a>
   <h4>GrooveSound is a project for unlimited music listening.</h4>
  <hr>
-  <img width="100" align="left" src="https://memocord.me/cdn/img/favicon.jpg">
+  <img width="100" align="left" src="https://memocord.ralex.app/_next/static/media/logo.ea5cfd2e.svg">
                                                                             
-  <a href="https://memocord.me"><h3>Memocord.me</h3></a>
+  <a href="https://memocord.ralex.app"><h3>Memocord.me</h3></a>
   <h4>Memocord is a website that collects Discord memes and then finds them in one place, so that they can be shared or even discovered.</h4>
  <hr>
  
